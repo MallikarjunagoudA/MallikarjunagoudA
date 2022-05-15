@@ -16,8 +16,9 @@ And I am having Good Amount of Knowledge on
 * c# 
 * js
 * Entity Framework
+* LINQ
 
 you can reach me by:
 Email : gmallikarjun17@gmail.com
 
-Happy Coding :)
+
