@@ -4,7 +4,7 @@ Hi Dear 🙋‍♂, Welocme On Board.
 
 I am a software Developer.
 
-worked on:
+lately overviewed on: 
 Solid Principles find details below
 https://github.com/MallikarjunagoudA/KnowMoreSolidPriclples
 
