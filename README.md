@@ -15,7 +15,7 @@ recently overviewed on:
 
 
 started to get more detials on :
-java script❤️
+javaScript❤️
 
 
 Currently the below techs are in my learning queue. 
