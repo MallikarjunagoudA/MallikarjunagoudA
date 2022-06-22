@@ -30,7 +30,6 @@ And I am having Good Amount of Knowledge on
 * JavaScript
 * ms sql
 * c# 
-* js
 * Entity Framework
 * LINQ
 * solid principles
