@@ -14,18 +14,20 @@ recently overviewed on:
  find the article on it here https://medium.com/@aamallikarjuna18/linq-language-integrated-query-99554d45f859
 
 
+
 started to get more detials on :
-javaScript❤️
+* react js
 
 
 Currently the below techs are in my learning queue. 
-* react js
+
 * AWS
 * Docker
 
 And I am having Good Amount of Knowledge on 
 * asp.net restful api
 * asp.net mvc
+* JavaScript
 * ms sql
 * c# 
 * js
