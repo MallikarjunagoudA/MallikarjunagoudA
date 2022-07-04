@@ -1,6 +1,6 @@
 # SimpleCSHudga
 
-Hi Dear 🙋‍♂, Welocme On Board. 
+🙋‍♂, Happy to see you here. Welocme On Board. 
 
 I am a software Developer.
 
