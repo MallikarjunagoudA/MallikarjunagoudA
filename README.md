@@ -15,13 +15,9 @@ recently overviewed on:
 
 
 
-started to get more detials on :
-* react js
-
-
 Currently the below techs are in my learning queue. 
 
-* AWS
+* Azure 
 * Docker
 
 And I am having Good Amount of Knowledge on 
