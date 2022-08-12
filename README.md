@@ -8,10 +8,9 @@ lately overviewed on:
 Solid Principles find details below
 https://github.com/MallikarjunagoudA/KnowMoreSolidPriclples
 
-recently overviewed on: 
- Linq. and give all details with examples. 
- find it here https://github.com/MallikarjunagoudA/LINQ and 
- find the article on it here https://medium.com/@aamallikarjuna18/linq-language-integrated-query-99554d45f859
+Linq. and give all details with examples. 
+find it here https://github.com/MallikarjunagoudA/LINQ and 
+find the article on it here https://medium.com/@aamallikarjuna18/linq-language-integrated-query-99554d45f859
 
 
 
